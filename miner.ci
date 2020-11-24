@@ -1,0 +1,6 @@
+module miner {
+	array [1D] Miner {
+		entry Miner();
+		entry void startMining(int);
+	};
+};
