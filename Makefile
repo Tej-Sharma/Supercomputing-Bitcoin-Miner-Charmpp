@@ -21,5 +21,5 @@ miner.decl.h miner.def.h : miner.ci
 
 clean:
 	   rm -f main.decl.h main.def.h main.o
-	      rm -f miner.decl.h miner.def.h miner.o
-	         rm -f miner charmrun
+	   rm -f miner.decl.h miner.def.h miner.o
+	   rm -f miner charmrun
