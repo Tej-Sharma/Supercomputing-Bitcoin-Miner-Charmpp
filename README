@@ -1,0 +1,4 @@
+## BitCoin Miner With SuperComputing Using Charm++
+
+Note: to specify the number of elements (processes) to create, edit the
+numElements field in main.C
